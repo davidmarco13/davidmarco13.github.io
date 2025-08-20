@@ -38,7 +38,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of David Marco', description: '', imageURL: '' },
   social: {
-    linkedin: 'david-marco-sierra-a3a440235/',
+    linkedin: 'david-marco-sierra/',
     x: '',
     mastodon: '',
     researchGate: '',
