@@ -79,6 +79,13 @@ const CONFIG = {
       companyLink: 'https://gptadvisor.com',
     },
     {
+      company: 'PwC',
+      position: 'Insights Day ',
+      from: 'November 2024',
+      to: 'November 2024',
+      companyLink: 'https://www.pwc.com/co/es/',
+    },
+    {
       company: 'GPTadvisor',
       position: 'Wealth Management AI Intern ',
       from: 'May 2024',
