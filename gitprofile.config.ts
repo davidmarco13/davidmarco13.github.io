@@ -61,7 +61,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/davidmarco13/CV-DavidMarco/blob/main/CV%20David%20Marco%20Sierra%2008%3A25.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/davidmarco13/CV-DavidMarco/blob/main/CV%20David%20Marco%20Sierra%2010-25.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
