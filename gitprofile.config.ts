@@ -72,6 +72,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Morgan Stanley',
+      position: 'Trading Hackathon ',
+      from: 'September 2025',
+      to: 'September 2025',
+      companyLink: 'https://www.morganstanley.com',
+    },
+    {
       company: 'GPTadvisor',
       position: 'Institutional Sales & Business Development ',
       from: 'June 2025',
